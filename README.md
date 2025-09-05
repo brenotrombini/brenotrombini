@@ -7,7 +7,11 @@
 
 🌱 Estou aprendendo ativamente sobre Banco de dados, foco em Back end, linguagens como Javascript, Python, Nodejs além de ter conhecimento em HTML e CSS
 
-📫 Você pode me contatar através de: https://www.linkedin.com/in/breno-trombini-tertuliano-b2ab50342/ - Email: brenovanonni03@hotmail.com
+📫 Você pode me contatar através de: 
+
+https://www.linkedin.com/in/breno-trombini-tertuliano-b2ab50342/
+
+brenovanonni03@hotmail.com
 
 🌍 Baseado em: Varginha - Mg
 
@@ -25,7 +29,6 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brenotrombini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 
-![Snake animation](https://github.com/brenotrombini/brenotrombini/blob/output/github-contribution-grid-snake.svg)
 
           
           
