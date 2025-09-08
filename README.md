@@ -1,7 +1,7 @@
 # Olá, me chamo Breno Trombini ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-💻 Atualmente trabalho na Secretaria Municipal de Saúde de Varginha como estágiario e estou no ultimo ano de Análise e Desenvolvimento de Sistemas pela Estácio de Sá
+💻 Atualmente trabalho na Superintendência Regional de Saúde de Varginha como estágiario e estou no último período de Análise e Desenvolvimento de Sistemas pela Estácio de Sá
 
 🎓 Tenho experiência comprovada em Salesforce e Redes e Computadores, além de estar aprendendo outras linguagens de programação com foco em Back end
 
