@@ -1,21 +1,22 @@
-# Olá, me chamo Breno Trombini ! 
-## Bem vindo ao meu perfil GitHub 👋
+# 👋 Hello, I'm Breno Trombini!  
+Welcome to my GitHub profile 🚀  
 
-💻 Atualmente trabalho na Superintendência Regional de Saúde de Varginha como estágiario e estou no último período de Análise e Desenvolvimento de Sistemas pela Estácio de Sá
+💻 I currently work at the Regional Health Superintendency of Varginha as an intern, and I am in the final semester of my **Associate Degree in Systems Analysis and Development** at Estácio de Sá.  
 
-🎓 Tenho experiência comprovada em Salesforce e Redes e Computadores, além de estar aprendendo outras linguagens de programação com foco em Back end
+🎓 I have proven experience in **Salesforce** and **Computer Networks**, and I am also learning other programming languages with a focus on **Back-End Development**.  
 
-🌱 Estou aprendendo ativamente sobre Banco de dados, foco em Back end, linguagens como Javascript, Python, Nodejs além de ter conhecimento em HTML e CSS
+🌱 I am actively learning about **Databases**, with a focus on Back-End technologies such as **JavaScript, Python, Node.js**, and I also have knowledge of **HTML and CSS**.  
 
-📫 Você pode me contatar através de: 
+📫 You can reach me at:  
+- [LinkedIn](https://www.linkedin.com/in/breno-trombini-tertuliano-b2ab50342/)  
+- 📧 brenovanonni03@hotmail.com  
 
-https://www.linkedin.com/in/breno-trombini-tertuliano-b2ab50342/
+🌍 Based in: Varginha - MG, Brazil  
 
-brenovanonni03@hotmail.com
+---
 
-🌍 Baseado em: Varginha - Mg
+### 🛠️ Tools & Technologies
 
-## Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> 
