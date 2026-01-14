@@ -1,18 +1,20 @@
-Bem-vindo ao meu perfil do GitHub 🚀
+🚀 Welcome to my GitHub profile!
 
-💻 Atualmente trabalho na Superintendência Regional de Saúde de Varginha como estagiário e estou no último semestre do curso de Análise e Desenvolvimento de Sistemas na Estácio de Sá.
+💻 I currently work at the Regional Health Superintendence of Varginha as an IT Intern and I am in the final semester of the Systems Analysis and Development degree at Estácio de Sá University.
 
-🎓 Tenho experiência comprovada em Salesforce e Redes de Computadores, e também estou aprendendo outras linguagens de programação com foco em Desenvolvimento Back-End.
+🧑‍💼 I also work as a TOTVS Developer and Support Analyst at Seven Cloud Tecnologia, where I provide system support, troubleshooting, and development solutions focused on business systems.
 
-🌱 Estou aprendendo ativamente sobre Bancos de Dados, com foco em tecnologias Back-End como JavaScript, Python, Node.js, além de ter conhecimentos em HTML e CSS.
+🎓 I have proven experience with Salesforce and Computer Networks, and I am continuously expanding my knowledge in Back-End Development.
 
-📫 Você pode me contatar através de:
+🌱 I am actively studying Databases and Back-End technologies, with a focus on JavaScript, Python, Node.js, and I also have solid knowledge of HTML and CSS.
 
-LinkedIn
+📫 How to reach me:
 
-📧 brenovanonni03@hotmail.com
+LinkedIn: https://www.linkedin.com/in/breno-trombini-tertuliano-b2ab50342/
 
-🌍 Localização: Varginha - MG, Brasil
+Email: brenovanonni03@hotmail.com
+
+🌍 Location: Varginha, Minas Gerais, Brazil 🇧🇷
 
 ---
 
