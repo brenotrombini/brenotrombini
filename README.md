@@ -1,6 +1,6 @@
 # Breno Trombini Tertuliano
 
-Desenvolvedor Web em formação, com foco em Python, automação e projetos de dados e Inteligência Artificial.
+Desenvolvedor Back-End, com foco em Python, automação e projetos de dados e Inteligência Artificial.
 
 ## Sobre mim
 
