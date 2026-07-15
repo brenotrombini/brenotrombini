@@ -1,39 +1,58 @@
-🚀 Welcome to my GitHub profile!
+# Breno Trombini Tertuliano
 
-💻 I currently work at the Regional Health Superintendence of Varginha as an IT Intern and I am in the final semester of the Systems Analysis and Development degree at Estácio de Sá University.
+Desenvolvedor Web em formação, com foco em Python, automação e projetos de dados e Inteligência Artificial.
 
-🧑‍💼 I also work as a TOTVS Developer and Support Analyst at Seven Cloud Tecnologia, where I provide system support, troubleshooting, and development solutions focused on business systems.
+## Sobre mim
 
-🎓 I have proven experience with Salesforce and Computer Networks, and I am continuously expanding my knowledge in Back-End Development.
+- Tecnólogo em Análise e Desenvolvimento de Sistemas pela Estácio de Sá
+- Estagiário de TI na Superintendência Regional de Saúde de Minas Gerais, atuando em suporte à infraestrutura de rede e desenvolvimento de scripts em Python para automação de tarefas administrativas
+- Suporte Técnico / Desenvolvedor Protheus na Seven Cloud Tecnologia, com desenvolvimento em ADVPL e suporte a clientes no ERP TOTVS Protheus
+- Em constante aprendizado em Back-End, Bancos de Dados, Business Intelligence (BI) e Inteligência Artificial aplicada com Python
+- Experiência prática com projetos de automação (RPA), machine learning e desenvolvimento de aplicações web
 
-🌱 I am actively studying Databases and Back-End technologies, with a focus on JavaScript, Python, Node.js, and I also have solid knowledge of HTML and CSS.
+## Tecnologias e ferramentas
 
-📫 How to reach me:
+**Linguagens & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![ADVPL](https://img.shields.io/badge/ADVPL-TOTVS%20Protheus-orange?style=flat)
 
-LinkedIn: https://www.linkedin.com/in/breno-trombini-tertuliano-b2ab50342/
+**Dados & IA**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
 
-Email: brenovanonni03@hotmail.com
+**Banco de Dados**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-🌍 Location: Varginha, Minas Gerais, Brazil 🇧🇷
+**Ferramentas**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
----
+## Projetos em destaque
 
-### 🛠️ Tools & Technologies
+**[Trombini Assistant](https://github.com/brenotrombini/Projeto-Chatbot-Python)**
+Chatbot desenvolvido com Python, Streamlit e API da OpenAI (GPT-4o), com interface de chat e histórico de conversa.
 
+**Previsão de Score de Crédito**
+Projeto de Machine Learning com Pandas e Scikit-learn para classificar clientes bancários (Ruim, Ok, Bom), com comparação entre os modelos Random Forest e KNN.
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="40" height="40"/>
+**Automação de Cadastro de Produtos (RPA)**
+Script em Python com PyAutoGUI e Pandas para automatizar o cadastro de centenas de produtos em um sistema web.
 
-<a href="https://github.com/brenotrombini">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenotrombini&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brenotrombini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
+## Contato
 
-
+LinkedIn: [breno-trombini-tertuliano](https://www.linkedin.com/in/breno-trombini-tertuliano-b2ab50342/)
+Email: [brenovanonni03@hotmail.com](mailto:brenovanonni03@hotmail.com)
+Localização: Varginha, Minas Gerais, Brasil
           
           
           
